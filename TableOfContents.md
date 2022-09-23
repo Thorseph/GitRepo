@@ -1,4 +1,6 @@
 ## Table of Contents
+
+#### This list is not exhaustive of all the projects I have been involved in.  It will be updated with programs I feel demonstrate something new or accomplished.
 #
 |        Name         | Goals                                                                   | Link                                                     |
 | :-----------------: | :---------------------------------------------------------------------- | :------------------------------------------------------- |
