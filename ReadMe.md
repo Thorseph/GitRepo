@@ -20,7 +20,7 @@
 #
 ## So why make a GitHub?
 #### It's high time I became more serious about CS, especially now that I've begun job
-####    hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding,
-####    especially to capture the interest of employers, but also share a little about
-####    the guy behind the keyboard.
+#### *hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding,
+#### *especially to capture the interest of employers, but also share a little about
+#### *the guy behind the keyboard.
 #
