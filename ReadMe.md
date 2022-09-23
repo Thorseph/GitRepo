@@ -19,8 +19,5 @@
 #### Learned to read Greek, Hiragana and Katakana (Japanese), and Korean for fun
 #
 ## So why make a GitHub?
-#### It's high time I became more serious about CS, especially now that I've begun job
-#### * hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding,
-#### * especially to capture the interest of employers, but also share a little about
-#### * the guy behind the keyboard.
+#### It's high time I became more serious about CS, especially now that I've begun job hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding, especially to capture the interest of employers, but also share a little about the guy behind the keyboard.
 #
