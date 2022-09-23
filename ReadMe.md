@@ -1,7 +1,7 @@
-## Nicholas Thor Lang
+# Nicholas Thor Lang
 #### Personal Email: thorseph4@gmail.com
 #### GitHub Link: https://github.com/Thorseph/ (polished repo)
-#### Repl.it Link: https://replit.com/@thorseph4 (fragments and forks)
+#### Repl.it Link: https://replit.com/@thorseph4 (mostly fragments and forks)
 #
 ## Professional About Me
 #### Transfer Student to Midwestern State University (MSU) in 2018
@@ -19,5 +19,5 @@
 #### Learned to read Greek, Hiragana and Katakana (Japanese), and Korean for fun
 #
 ## So why make a GitHub?
-#### It's high time I became more serious about CS, especially now that I've begun job hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding, especially to capture the interest of employers, but also share a little about the guy behind the keyboard.
+### It's high time I became more serious about CS, especially now that I've begun job hunting in earnest.  Here I hope to mostly showcase what I'm capable of coding, especially to capture the interest of employers, but also share a little about the guy behind the keyboard.
 #
