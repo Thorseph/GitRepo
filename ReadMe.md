@@ -1,6 +1,7 @@
 ## Nicholas Thor Lang
 #### Personal Email: thorseph4@gmail.com
-#### GitHub Link: https://github.com/Thorseph/
+#### GitHub Link: https://github.com/Thorseph/ (polished repo)
+#### Repl.it Link: https://replit.com/@thorseph4 (fragments and forks)
 #
 ## Professional About Me
 #### Transfer Student to Midwestern State University (MSU) in 2018
