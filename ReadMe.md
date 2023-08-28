@@ -17,5 +17,5 @@
 #### Learned to read Greek, Hiragana and Katakana (Japanese), and Korean for fun
 #
 ## So why make a GitHub?
-#### Now that I'm gainfully employed, it's back to being an accessory to university classes (especially with Dr. Griffin, aka rugbyprof)
+#### Now that I'm gainfully employed, it's back to being an accessory to university classes (especially with [Dr. Griffin](https://github.com/rugbyprof))
 #
