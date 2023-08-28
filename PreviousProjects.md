@@ -1,4 +1,4 @@
-## Table of Contents
+## Some Previous Projects
 
 #### This list is not exhaustive of all the projects I have been involved in.  It will be updated with programs I feel demonstrate something new or accomplished, and as I find them again or create them.
 #
